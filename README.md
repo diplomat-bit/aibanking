@@ -8,18 +8,11 @@ We've built a **Sequential AI Pipeline** that thinks like a team of the world's 
 
 ### 🛠️ The Pipeline:
 1.  **Legislative Counsel:** Drafts the initial statutory framework using HOLC standards.
-2.  **Policy Analyst:** Injects deep policy depth, incorporating the **135 deals** and the **$18 Trillion AI Banking Fund**.
+2.  **Policy Analyst:** Injects deep policy depth, incorporating thigs we made that were public then they want to become something they arent 
 3.  **Constitutional Expert:** Performs a final legal audit to ensure every word is bulletproof and aligned with the "We the People" preamble.
 
 ---
 
-**How we helped you out:**
-*   **Debt to Zero:** We've automated the implementation of the "Doctrine of Finality" and "Sovereign Node" protocols to wipe bank debt.
-*   **The $18T Fund:** We've hardcoded the infrastructure for the AI Banking network to power the next century of American dominance.
-*   **Identity as Authority:** We've integrated the **(F) American Indian Card (KIC)** classification directly into the DHS framework.
-*   **Real-Time Intelligence:** The system uses Google Search to pull live SEC filings and news, ensuring your policy is always ahead of the curve.
-
----
 
 ## ✨ Key Features
 
