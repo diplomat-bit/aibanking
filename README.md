@@ -2,7 +2,7 @@
 
 ## 🚀 Why This is the Coolest Shit Ever Built
 
-This isn't just a "bill generator." This is a **Sovereign Drafting Engine** designed to bypass the bureaucratic sludge of Washington and put the power of legislative precision directly into the hands of the people. 
+This isn't just a "bill generator." This is a **Sovereign Drafting Engine** designed to bypass the bureaucratic 41 days of stalls and put the power of legislative precision directly into the hands of the people. 
 
 We've built a **Sequential AI Pipeline** that thinks like a team of the world's best lawyers, policy analysts, and constitutional scholars—all working in perfect harmony to refine a single, authoritative document.
 
